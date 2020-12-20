@@ -1,0 +1,4 @@
+br\edu\ifba\ads\rmi\RmiServer.class
+br\edu\ifba\ads\rmi\Test.class
+br\edu\ifba\ads\rmi\RmiClient.class
+br\edu\ifba\ads\rmi\ReceiveMessageInterface.class
